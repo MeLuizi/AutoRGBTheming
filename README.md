@@ -4,5 +4,5 @@ The bash script listens for changes in the theme files and whenever one happens 
 
 IMPORTANT
 
-Must include an exec command in the hyprland file or setup the autostart.
+Must include an exec command in the hyprland file or setup the autostart.<br>
 example: `hl.exec_cmd("~/.local/bin/kb-color-daemon.sh &")` (for .lua)
