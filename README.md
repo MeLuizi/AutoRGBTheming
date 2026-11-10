@@ -6,4 +6,4 @@ IMPORTANT
 
 Must include an exec command in the hyprland file or setup the autostart.
 
-example: `hl.exec_cmd("~/.local/bin/kb-color-daemon.sh &")`
+example: `hl.exec_cmd("~/.local/bin/kb-color-daemon.sh &")` (for .lua)
